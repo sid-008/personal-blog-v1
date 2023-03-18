@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Sid T',
     description: 'I like dogs',
-    image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
+    image: 'https://www.sciencenews.org/wp-content/uploads/2022/11/top-sapce-images_feat-1030x580.jpg'
   }
 
   return (
