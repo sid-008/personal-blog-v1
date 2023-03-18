@@ -6,9 +6,16 @@ date: 2021-03-19
 
 import Image from 'next/image'
 
-<link rel="prefetch" href="/images/bg_16.jpg" width="2700" height="600" id="index" />
-
-<img src="https://cdn.discordapp.com/attachments/906413098808778765/1086537875086135296/bg_16.jpg" width="2700" height="600" id="index"> </img>
+<div style={{borderRadius: '5%', overflow: 'hidden'}}>
+<Image
+  src="/images/bg_16.jpg"
+  alt="Photo"
+  width={2304}
+  height={1400}
+  priority
+  className="next-image"
+/>
+</div>
 # Siddharth Tewari.
 
 <div id="typewriter">
