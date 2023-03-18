@@ -81,7 +81,8 @@ p, h1, a, li, {
 }
 
 #iranContraRef {
-  white-space: normal;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 #typewriter p {
