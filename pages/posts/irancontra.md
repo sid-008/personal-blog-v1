@@ -52,7 +52,7 @@ This led to the birth of "the enterprise", which facilitated the flow of arms to
 
 
 On November 3, 1986, two Lebanese newspapers broke the story of the Iran arms deal, and quickly thereafter the entire mess began to unravel in the United States. The first two weeks following the newspaper leak were marked by an increasing crisis of confidence in the government as facts about the affair rapidly became public. The month of November was marked by heavy media coverage, and by December 1986 everything from the Contra affair to the diversion scheme found its way into the press. 
-
+ 
 With the scandal spiraling out of control and a growing loss of confidence in the government, three mechanisms were established to uncover the truth of the Iran-Contra Affair in hopes of regaining public trust: a special review board appointed by Reagan(i.e the Tower Commission), an independent counsel per the Attorney General's request, and the holding of immunized joint-congressional hearings. In the joint-congressional hearings, North was basically made the scape-goat for the whole affair since what North and his associates did was technically illegal and may have counted as even high treason since North, in his testimony revealed that he had willingly participated in covert illegal activities and had even shredded documents because the attorney general's people were coming to look through his office the next day. To add insult to injury his secretary Fawn Hall also testified extensively about altering documents and helping shred official NSC documents. North appeared to some as a hero, to some as a victim. When his testimony was said and done, regardless of what he said, he had a 67% approval rating. 
 
 The hearings' Majority Report concluded that North's testimony demonstrates that he also lied to members of the Executive branch, including the Attorney General, and officials of the State Department, CIA and NSC. And also that other officials lied repeatedly to Congress and to the American people about the Contra covert action and Iran arms sales, and that he altered and destroyed official documents.
@@ -71,9 +71,10 @@ At the end of the Bush presidency, H. W. Bush pardoned five administration offic
 
 North went on to become the National Rifle Association's president in 2018, and had a brief foray into politics in 1994, and also had his own show on the Fox News Channel.
 
+
 # References:
 
-* https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/overview-case.php#_ftn11 (this is very comprehensive)
+* https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/overview-case.php#_ftn11
 * https://nsarchive2.gwu.edu/NSAEBB/NSAEBB210/16-Diversion%20Memo%204-4-86%20(IC%2002614).pdf
 * https://www.brown.edu/Research/Understanding_the_Iran_Contra_Affair/documents/d-nic-6.pdf
 * https://www.nytimes.com/1991/12/08/world/iran-pipeline-hidden-chapter-special-report-us-said-have-allowed-israel-sell.html
