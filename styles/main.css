@@ -80,11 +80,6 @@ p, h1, a, li, {
   border-radius: 5%;
 }
 
-#iranContraRef {
-  display: flex;
-  flex-wrap: wrap;
-}
-
 #typewriter p {
   color: #fff;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
