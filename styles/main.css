@@ -80,6 +80,10 @@ p, h1, a, li, {
   border-radius: 5%;
 }
 
+#iranContraRef {
+  white-space: normal;
+}
+
 #typewriter p {
   color: #fff;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
