@@ -24,7 +24,7 @@ Now we install the mongoDB driver:
 go get go.mongodb.org/mongo-driver/mongo
 ```
 # Directory Structure
-This is what your project files should look like.
+This is what your project directory should look like.
 ```
 .
 ├── Collection
@@ -143,12 +143,14 @@ This just defines what kind of data we will be putting into the DB.
  Now we move onto actually defining the routes and their functionalities.
  
  Create a file named routes. Inside it create 4 go files as shown:
- 
+
+```
 routes
     ├── create.go
     ├── delete.go
     ├── read.go
     └── update.go
+```
 
 # CREATE endpoint
 Creation of an entry in the DB is done by a `POST` request. We could say that we are quite literally posting a request to our DB. 
