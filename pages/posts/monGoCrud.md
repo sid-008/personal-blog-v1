@@ -58,7 +58,7 @@ In my case I have used the latter.
 
 Now create a new file named database, and create a database.go file in it with the following content
 
-```
+```go
 package database
 
 import (
