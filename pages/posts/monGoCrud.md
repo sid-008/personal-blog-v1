@@ -25,6 +25,7 @@ go get go.mongodb.org/mongo-driver/mongo
 ```
 # Directory Structure
 This is what your project files should look like.
+```
 .
 ├── Collection
 │   └── getCollection.go
@@ -40,7 +41,7 @@ This is what your project files should look like.
     ├── delete.go
     ├── read.go
     └── update.go
-
+```
 
 # Connecting MongoDB to Go
 All you need is your local mongoDB URI to connect to your DB. It typically looks a little like this:
