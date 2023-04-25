@@ -1,7 +1,7 @@
 ---
 title: Creating a CRUD API with Go and MongoDB
 date: 2023/1/18
-description: Learn how to creat a quick and easy CRUD API
+description: Learn how to create a quick and easy CRUD API
 tag: Go
 author: You
 ---
